@@ -1,2 +1,2 @@
 # Resume
-I made a resume with HTML5 and CSS
+I made a resume with Bootstrap, HTML, CSS and JS
